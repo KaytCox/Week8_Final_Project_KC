@@ -1,1 +1,1 @@
-package decorarorCompare;
+package src.decorarorCompare;

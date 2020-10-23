@@ -1,4 +1,4 @@
-package decorarorCompare;
+package src.decorarorCompare;
 
 public class compileInformation implements programReview {
 

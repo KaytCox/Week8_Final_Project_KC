@@ -1,4 +1,4 @@
-package iteratorCourse;
+package src.iteratorCourse;
 
 public class courseInfo {
 

@@ -1,4 +1,4 @@
-package commandProgram;
+package src.commandProgram;
 
 import java.awt.*;
 import javax.swing.*;

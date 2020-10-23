@@ -1,4 +1,4 @@
-package proxyImage;
+package src.proxyImage;
 
 import java.net.*;
 import javax.swing.*;

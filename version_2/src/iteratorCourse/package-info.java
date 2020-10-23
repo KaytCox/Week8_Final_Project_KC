@@ -1,1 +1,1 @@
-package iteratorCourse;
+package src.iteratorCourse;

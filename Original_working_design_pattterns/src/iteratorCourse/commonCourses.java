@@ -1,4 +1,4 @@
-package iteratorCourse;
+package src.iteratorCourse;
 
 public class commonCourses implements courseDirectory {  
 	public String name[]={"Cyber Security Essentials", "Encryption and Authentication","Distributed Computing Systems","Pervasive Application Development","Semantic Web"};   
