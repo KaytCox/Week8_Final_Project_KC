@@ -3,7 +3,7 @@ package proxyImage;
 import java.awt.*;
 import javax.swing.*;
 
-public class imageDetails extends JComponent {
+class imageDetails extends JComponent {
 	private static final long serialVersionUID = 1L;
 	private Icon icon;
 
